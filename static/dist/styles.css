@@ -79,7 +79,7 @@ ul li, ol li { margin: 0 0 2px; }
 ul li:last-of-type, ol li:last-of-type { margin-bottom: 0; }
 blockquote { border-left: 1px dotted #2980b9; margin: 40px 0; padding: 5px 30px; }
 blockquote p { color: #aeadad; display: block; font-style: italic; margin: 0; width: 100%; }
-img { display: block; margin: 40px 0; width: auto; max-width: 100%; }
+img { display: block; margin: 40px auto; width: auto; max-width: 100%; }
 img[src$="align-center"] { margin: auto; }
 img[src$="align-left"] { float: left; margin-right: 40px; }
 img[src$="align-right"] { float: right; margin-left: 40px; }
